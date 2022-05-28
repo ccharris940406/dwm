@@ -1,0 +1,8 @@
+*.o
+*.rej
+*.orig
+/diff/*
+/wallpaper/*
+dwm
+my_config.h
+
